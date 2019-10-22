@@ -1,0 +1,13 @@
+hey this is Banvi Menghani!
+this is my 2nd git repo so, excited!:)
+this one's about another technology currently in the 
+limelight\\\ ya! you guessed it right FACIAL RECOGNITION
+i made it for one of the hackathon in my college and yay! 
+we were 1st runnerups then!
+
+this is bascially divided into 3 parts :python,openCV and tkinter
+the program bascially 
+1. stores the facial information of a new user with its
+ name and number and about 60 images
+2. next it recognizes when the same face appears again in the webcam
+3. and marks the atendence in a csv file.
